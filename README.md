@@ -14,8 +14,10 @@ Become a freelance web developer.
 ## Projects
 
 - C++ Programs
-- Portfolio Website (Coming Soon)
-
+- Portfolio Website 
+- Dawood Fabrics & Boutique
+- Forks N Knives
+- Bashir Pharmacy Plus Mart
 ## Connect
 
 GitHub: github.com/raoadee-dev
